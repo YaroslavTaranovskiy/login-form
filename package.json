@@ -18,6 +18,7 @@
     "url": "https://github.com/YaroslavTaranovskiy/login-form"
   },
   "dependencies": {
+    "firebase": "^9.12.1",
     "modern-normalize": "^1.1.0"
   },
   "devDependencies": {

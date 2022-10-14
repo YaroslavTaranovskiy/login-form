@@ -1,0 +1,22 @@
+.authenticate_buttons {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.button {
+    text-transform: uppercase;
+    border: 1px solid rgb(243, 7, 7);
+    border-radius: 5px;
+    background-color: transparent;
+    color: rgb(12, 12, 12);
+    width: 130px;
+    height: 44px;
+    
+    cursor: pointer;
+
+    &:hover,
+    &:focus {
+        background: #4706f8;
+    }
+}
